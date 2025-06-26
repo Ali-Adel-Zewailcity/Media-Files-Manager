@@ -44,6 +44,7 @@ To run this project successfully, ensure you have the following:
 - **CloudConvert API Key**
   - Required for file conversion functionality.
   - Get your free API key by signing up at [CloudConvert](https://cloudconvert.com/).
+  - Store your API key at `pdf.py` file in api_key variable.
 
 
 ### Install Python dependencies:
