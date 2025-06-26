@@ -7,6 +7,7 @@ import cloudconvert
 from pdf2docx import Converter
 from user_input_handler import pdf_split_handle_input, pdf_pd_input
 
+# Store Your CloudConvert API Key here
 api_key = ''
 
 class PDF(File):
