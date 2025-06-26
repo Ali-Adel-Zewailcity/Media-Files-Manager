@@ -1,0 +1,7 @@
+requests
+PyMuPDF
+cloudconvert
+pdf2docx
+Pillow
+yt-dlp
+tabulate
